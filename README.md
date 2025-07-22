@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=2000&color=8A2BE2&width=1400&lines=Wassup+Dude!+Wassup+Bro!+Wassup+Man!+Wassup+Lae!+Enjoyyy&center=true&vCenter=true&size=30" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=2000&color=8A2BE2&width=1200&lines=Wassup+Dude!+Wassup+Bro!+Wassup+Man!+Wassup+Lae!+WELCOME!!&center=true&vCenter=true&size=30" alt="Typing SVG" />
 </p>
 
 <p align="center">
