@@ -8,7 +8,9 @@
 
 
 # 👾About Me👾
-Welcome TechFellow!<br>I am Maxwell Rumahorbo, currently have a Tech-Journey at Del Institute of Technology majoring Information System since 2024.<br>Outside Classwindow, my curiosity driven me in Bussiness and Data Analyst passion. Always try myself ready for things ahead<br>as  TechBoy.  Let's connect as one line of code!
+Welcome TechFellow!<br>I am Maxwell Rumahorbo, currently have a Tech-Journey at Del Institute of Technology majoring Information System since 2024.
+<br>Outside Classwindow, my curiosity driven me in Bussiness and Data Analyst passion. Always try myself ready for things ahead as TechBoy.  
+Let's connect as one line of code!
 
 
   # 💻 Current Skills 💻
@@ -28,7 +30,7 @@ Welcome TechFellow!<br>I am Maxwell Rumahorbo, currently have a Tech-Journey at 
 ![](https://github-contributor-stats.vercel.app/api?username=maxrumbo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-🌐 Connect with Me :
+🌐 Reach Me Out :
 ---
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxwellrumbo_) 
