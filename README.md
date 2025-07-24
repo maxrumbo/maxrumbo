@@ -16,7 +16,14 @@
     Always try myself ready for things ahead as TechBoy.
     Let's connect as one line of code!
   </p>
-
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxwellrumbo_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-rumahorbo-450497317/) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/maxrumbo06/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27343136) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/criticizekid_)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/maxrumbo)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxrumbo06@gmail.com) 
 
 
   # 💻 Current Skills 💻
@@ -36,17 +43,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=maxrumbo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-🌐 Reach Me Out 🌐
----
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxwellrumbo_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-rumahorbo-450497317/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/maxrumbo06/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27343136) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/criticizekid_)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/maxrumbo)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxrumbo06@gmail.com) 
-
 ![snake gif](https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg)
 
 ---
