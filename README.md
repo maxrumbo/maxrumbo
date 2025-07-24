@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" alt="Cool GIF">
+  <img src="https://www.gambaranimasi.org/data/media/41/animasi-bergerak-kilat-dan-petir-0002.gif" alt="Animasi Kilat dan Petir" width="1200">
 </p>
-
 
 # 👾About Me👾
 Welcome TechFellow!<br>I am Maxwell Rumahorbo, currently have a Tech-Journey at Del Institute of Technology majoring Information System since 2024.
