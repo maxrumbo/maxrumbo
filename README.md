@@ -9,11 +9,11 @@
 
   <h1>👾About Me👾</h1>
   <p>
-    Welcome TechFellow!<br>
-    I am Maxwell Rumahorbo, currently have a Tech-Journey at Del Institute of Technology<br>
-    majoring Information System since 2024.<br>
-    Outside Classwindow, my curiosity driven me in Bussiness and Data Analyst passion.<br>
-    Always try myself ready for things ahead as TechBoy.<br>
+    Welcome TechFellow!
+    I am Maxwell Rumahorbo, currently have a Tech-Journey at Del Institute of Technology
+    majoring Information System since 2024.
+    Outside Classwindow, my curiosity driven me in Bussiness and Data Analyst passion.
+    Always try myself ready for things ahead as TechBoy.
     Let's connect as one line of code!
   </p>
 
