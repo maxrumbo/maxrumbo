@@ -30,7 +30,7 @@ Let's connect as one line of code!
 ![](https://github-contributor-stats.vercel.app/api?username=maxrumbo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-🌐 Reach Me Out :
+🌐 Reach Me Out 🌐
 ---
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxwellrumbo_) 
