@@ -7,36 +7,63 @@
 </p>
 
 
-  <h1>👾About Me👾</h1>
-  <p>
-    Welcome TechFellow!
-    I am Maxwell Rumahorbo, currently have a Tech-Journey at Del Institute of Technology
-    majoring Information System since 2024.
-    Outside Classwindow, my curiosity driven me in Bussiness and Data Analyst passion.
-    Always try myself ready for things ahead as TechBoy.
-    Let's connect as one line of code!
-  </p>
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxwellrumbo_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxwell-rumahorbo-450497317/) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://id.pinterest.com/maxrumbo06/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27343136) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/criticizekid_)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/maxrumbo)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maxrumbo06@gmail.com) 
+ <h1 align="center">👾 About Me 👾</h1>
 
+<p align="center">
+  Welcome TechFellow!<br/>
+  I am <strong>Maxwell Rumahorbo</strong>, currently having a Tech-Journey at <strong>Del Institute of Technology</strong><br/>
+  majoring in <strong>Information System</strong> since 2024.<br/>
+  Outside the class window, my curiosity drives me into <strong>Business</strong> and <strong>Data Analyst</strong> passions.<br/>
+  Always preparing myself for what's ahead as a TechBoy.<br/>
+  <em>Let's connect as one line of code!</em>
+</p>
 
-  # 💻 Current Skills 💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
+<p align="center">
+  <a href="https://instagram.com/maxwellrumbo_">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maxwell-rumahorbo-450497317/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://id.pinterest.com/maxrumbo06/">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/27343136">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://x.com/criticizekid_">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="https://codepen.io/maxrumbo">
+    <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" />
+  </a>
+  <a href="mailto:maxrumbo06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+<br/>
 
+<h2 align="center">💻 Current Skills 💻</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
+</p>
 
-## 📊 GitHub Stats ##
+<br/>
 
-</div>
-
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxrumbo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
@@ -46,18 +73,30 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=maxrumbo&theme=tokyonight&hide_border=false" />
 </p>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<h2 align="center">🔝 Top Contributed Repo</h2>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=maxrumbo&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=maxrumbo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
----
-![snake gif](https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=maxrumbo&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=maxrumbo&icon=0&color=0" />
+  </a>
+</p>
 
 
