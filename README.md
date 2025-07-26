@@ -6,7 +6,6 @@
   <img src="https://www.gambaranimasi.org/data/media/41/animasi-bergerak-kilat-dan-petir-0002.gif" alt="Animasi Kilat dan Petir" width="1200">
 </p>
 
-
  <h1 align="center">👾 About Me 👾</h1>
 
 <div align="center">
@@ -19,7 +18,6 @@
     <em>Let's connect as one line of code!</em>
   </div>
 </div>
-
 
 <p align="center">
   <a href="https://instagram.com/maxwellrumbo_">
@@ -45,8 +43,6 @@
   </a>
 </p>
 
-<br/>
-
 <h2 align="center">💻 Current Skills 💻</h2>
 
 <p align="center">
@@ -64,8 +60,6 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
 </p>
 
-<br/>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -81,7 +75,7 @@
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&column=3&title=MultiLanguage,Commits,Repositories" 
-    width="400"
+    width="450"
   />
 </p>
 
@@ -92,8 +86,7 @@
 <br/>
 
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=maxrumbo&icon=0&color=0" />
-  </a>
+    </a>
 
 
 
