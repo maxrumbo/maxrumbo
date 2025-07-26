@@ -14,7 +14,7 @@
     majoring Information System since 2024.
     Outside Classwindow, my curiosity driven me in Bussiness and Data Analyst passion.
     Always try myself ready for things ahead as TechBoy.
-    Let's connect as one line of code!
+    Let's connect as one line of code!.
   </p>
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maxwellrumbo_) 
