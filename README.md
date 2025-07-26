@@ -81,10 +81,9 @@
 <p align="center">
   <img 
     src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&column=3&title=MultiLanguage,Commits,Repositories" 
-    width="800"
+    width="400"
   />
 </p>
-
 
 <p align="center">
   <img src="https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg" />
@@ -92,10 +91,9 @@
 
 <br/>
 
-<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=maxrumbo&icon=0&color=0" />
   </a>
-</p>
+
 
 
