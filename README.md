@@ -78,12 +78,17 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&title=MultiLanguage,Commits,Repositories" 
-    width="800"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=40&title=MultiLanguage,Commits,Repositories" 
+        width="1000"
+      />
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
   <img src="https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg" />
