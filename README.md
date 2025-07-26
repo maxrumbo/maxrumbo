@@ -9,14 +9,17 @@
 
  <h1 align="center">👾 About Me 👾</h1>
 
-<p align="center">
-  Welcome TechFellow!<br/>
-  I am <strong>Maxwell Rumahorbo</strong>, currently having a Tech-Journey at <strong>Del Institute of Technology</strong><br/>
-  majoring in <strong>Information System</strong> since 2024.<br/>
-  Outside the class window, my curiosity drives me into <strong>Business</strong> and <strong>Data Analyst</strong> passions.<br/>
-  Always preparing myself for what's ahead as a TechBoy.<br/>
-  <em>Let's connect as one line of code!</em>
-</p>
+<div align="center">
+  <div style="text-align: justify; width: 80%; max-width: 700px; margin: auto;">
+    Welcome TechFellow!  
+    I am <strong>Maxwell Rumahorbo</strong>, currently having a Tech-Journey at <strong>Del Institute of Technology</strong>  
+    majoring in <strong>Information System</strong> since 2024.  
+    Outside the class window, my curiosity drives me into <strong>Business</strong> and <strong>Data Analyst</strong> passions.  
+    Always preparing myself for what's ahead as a TechBoy.  
+    <em>Let's connect as one line of code!</em>
+  </div>
+</div>
+
 
 <p align="center">
   <a href="https://instagram.com/maxwellrumbo_">
@@ -76,16 +79,11 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&title=MultiLanguage,Commits,Repositories" 
+    width="800"
+  />
 </p>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=maxrumbo&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
-<br/>
 
 <p align="center">
   <img src="https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg" />
