@@ -70,7 +70,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=maxrumbo&theme=tokyonight&hide_border=false" />
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align="center">
   <img 
