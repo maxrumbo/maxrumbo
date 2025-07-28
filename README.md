@@ -9,6 +9,8 @@
   <img src="https://www.gambaranimasi.org/data/media/41/animasi-bergerak-kilat-dan-petir-0002.gif" alt="Animasi Kilat dan Petir" width="1200">
 </p>
 
+---
+
  <h1 align="center">👾 About Me 👾</h1>
 
 <div align="center">
