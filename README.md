@@ -13,7 +13,7 @@
     Welcome TechFellow!  
     I am <strong>Maxwell Rumahorbo</strong>, currently having a Tech-Journey at <strong>Del Institute of Technology</strong>  
     majoring in <strong>Information System</strong> since 2024.  
-    Outside the class window, my curiosity drives me into <strong>Business</strong> and <strong>Data Intelliginece</strong> passions.  
+    Outside the class window, my curiosity drives me into <strong>Business</strong> and <strong>Data Intelligence</strong> passions.  
     Always preparing myself for what's ahead as a TechBoy.  
     <em>Let's connect as one line of code!</em>
   </div>
