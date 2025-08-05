@@ -85,7 +85,6 @@
   />
 </p>
 
-
 <p align="center">
   <img src="https://github.com/maxrumbo/maxrumbo/blob/output/github-snake-dark.svg" />
 </p>
