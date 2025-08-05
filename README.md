@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=2000&color=8A2BE2&width=1200&lines=YO+SUP!+I'M+MAXWELL+RUMAHORBO!&center=true&vCenter=true&size=30&cursor=blink" alt="Typing SVG" />
 </p>
