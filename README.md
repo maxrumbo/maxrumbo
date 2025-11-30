@@ -66,13 +66,9 @@
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxrumbo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxrumbo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=maxrumbo&theme=tokyonight&hide_border=false" />
+  
+  <img src="https://streak-stats.demolab.com?user=maxrumbo&theme=tokyonight&hide_border=false" />
 </p>
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
