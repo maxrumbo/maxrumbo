@@ -10,16 +10,10 @@
 
 ---
 
- <h1 align="center">👾 About Me 👾</h1>
+ <h1 align="center">👾 Available at 👾</h1>
 
 <div align="center">
   <div style="text-align: justify; width: 80%; max-width: 700px; margin: auto;">
-    Welcome TechFellow!  
-    I am <strong>Maxwell Rumahorbo</strong>, currently having a Tech-Journey at <strong>Del Institute of Technology</strong>  
-    majoring in <strong>Information System</strong> since 2024.  
-    Outside the class window, my curiosity drives me into <strong>Business</strong> and <strong>Data Intelligence</strong> passions.  
-    Always preparing myself for what's ahead as a TechBoy.  
-    <em>Let's connect as one line of code!</em>
   </div>
 </div>
 
@@ -46,38 +40,6 @@
   <a href="mailto:maxrumbo06@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<h2 align="center">💻 Current Skills 💻</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
-</p>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  
-  <img src="https://streak-stats.demolab.com?user=maxrumbo&theme=tokyonight&hide_border=false" />
-</p>
-
-<h2 align="center">🏆 GitHub Trophies 🏆</h2>
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=maxrumbo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=20&column=3&title=MultiLanguage,Commits,Repositories" 
-    width="450"
-  />
 </p>
 
 <p align="center">
