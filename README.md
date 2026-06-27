@@ -30,7 +30,7 @@
   <a href="https://codepen.io/maxrumbo">
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" alt="CodePen" />
   </a>
-  <a href="mailto:maxrumbo06@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maxrumbo06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
