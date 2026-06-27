@@ -22,17 +22,11 @@
   <a href="https://instagram.com/maxwellrumbo_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/maxwell-rumahorbo-450497317/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://id.pinterest.com/maxrumbo06/">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" />
-  </a>
+ <a href="https://www.linkedin.com/in/maxrumbo/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+</a>
   <a href="https://stackoverflow.com/users/27343136">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://x.com/criticizekid_">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
   <a href="https://codepen.io/maxrumbo">
     <img src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white" />
